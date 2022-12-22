@@ -5,6 +5,4 @@
 
 ## Information
 
-This is a dummy repo for issue tracking / requests on the website.
-
-Please create a ticket with the git request on our discord
+This is now tracked on https://saesrpg.uk
